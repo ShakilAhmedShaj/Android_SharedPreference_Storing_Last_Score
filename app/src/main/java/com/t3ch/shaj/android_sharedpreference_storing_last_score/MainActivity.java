@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private Button plusBTN, minusBTN;
     private TextView scoreTV;
 
-    private int score;
+    private int score = 0;
 
 
     @Override
